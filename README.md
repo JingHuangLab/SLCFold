@@ -1,5 +1,5 @@
 ## SLCFold
-The source code is the implementation of the fitness score, which was designed for new fold. We successfully found a new fold SLC44 according the the fitness score.
+The source code is the implementation of the fitness score, which was designed for new folds. Through ranking by the score, the new fold SLC44 was successfully discovered from the human SLC superfamily. The fitness score can also be adopted to other families for new folds.
 
 ### Data
 #### Predicted information:
