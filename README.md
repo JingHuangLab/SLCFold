@@ -1,5 +1,5 @@
 ## SLCFold
-The source code is the implementation of the fitness score.
+The source code is the implementation of the fitness score, which was designed for new fold. We successfully found a new fold SLC44 according the the fitness score.
 
 ### Data
 #### Predicted information:
